@@ -1,0 +1,4 @@
+name,ipv4,osname
+smtp,10.1.1.1,win2k
+dbserver,10.1.1.2,linux
+webserver,10.1.1.18,HPUX

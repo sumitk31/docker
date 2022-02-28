@@ -1,0 +1,4 @@
+{ "oper" : { "input" : "one.txt",
+             "output" : "out.txt",
+             "search" : "sample" }
+}
